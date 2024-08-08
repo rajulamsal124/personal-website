@@ -10,4 +10,4 @@ company: 'Personal Project'
 showInProjects: true
 ---
 
-Consoled based game developed using Java
+Consoled based game developed using Java. Learn software design by building this game using Java
