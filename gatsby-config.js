@@ -20,13 +20,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'PradipDhakal',
-        short_name: 'PradipDhakal',
+        name: 'RajuLamsal',
+        short_name: 'RajuLamsal',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
       },
     },
     `gatsby-plugin-offline`,
