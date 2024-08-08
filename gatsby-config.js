@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Raju Lamsal',
     description:
-      'Raju Lamsal is a software engineer from Nepal who specializes in technologies like React and Node.',
+      'Raju Lamsal is a software engineer based on Brisbane who specializes in technologies like React and Node.',
     siteUrl: 'https://rlamsal.com', // No trailing slash allowed!
     image: '/me.jpg', // Path to your image you placed in the 'static' folder
     facebook: 'rajulamsal89',
