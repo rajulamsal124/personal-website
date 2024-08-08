@@ -10,3 +10,5 @@ tech:
 company: 'Personal'
 showInProjects: True
 ---
+
+Implemented Infrastructure as a Code (IoC) by utlizing terrafrom to auto AWS VPC

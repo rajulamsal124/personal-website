@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-EClient(A perfect Client Management Tools(CMT)) is to manage clients details,project time/duration, client requirements etc.
+Learning CodeIgniter 3 (CI3) and Vue 2 by developing booking crud application

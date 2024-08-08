@@ -1,5 +1,5 @@
 ---
-date: '2022-08-26'
+date: '2022-04-26'
 title: 'Fishing Simulation'
 github: 'https://github.com/rajulamsal124/fishing_simulation/'
 tech:
@@ -9,3 +9,5 @@ tech:
 company: 'Personal Project'
 showInProjects: true
 ---
+
+Simple simulation using Matpoltlib and Python3
