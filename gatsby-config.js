@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Raju Lamsal',
     description:
-      'Pradip Dhkala is a software engineer from Nepal who specializes in technologies like React and Node.',
-    siteUrl: 'https://dhakalpradip.com.np', // No trailing slash allowed!
+      'Raju Lamsal is a software engineer from Nepal who specializes in technologies like React and Node.',
+    siteUrl: 'https://rlamsal.com', // No trailing slash allowed!
     image: '/me.jpg', // Path to your image you placed in the 'static' folder
-    facebook: 'dhpradeep25',
+    facebook: 'rajulamsal89',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
