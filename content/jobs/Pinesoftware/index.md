@@ -4,7 +4,7 @@ title: 'Software Developer'
 company: 'Pine Software solution'
 location: 'Pokhara, Nepal'
 range: 'Jan 2017 - Sep 2020'
-url: 'https://www.eversoftgroup.com/'
+url: 'https://www.pinesofts.com/'
 tags:
   - HTML
   - CSS
